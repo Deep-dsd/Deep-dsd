@@ -1,9 +1,9 @@
 <!-- Header Section -->
-<div style="background-image: url('/bg.jpg'); padding: 50px; text-align: center; color: white;">
-  <h1>Deep Sankar De</h1>
-  <p>
-    <img src="https://your-profile-picture-url" alt="Deep Sankar De" width="200" />
-  </p>
+<img src="/bg2.jpg" alt="Vintage Background" style="width:100%; height:auto border-radious=5px;">
+
+<div align="center" style="background-color: red">
+  <p>Hello there</p>
+  <h1>I'm Deep Sankar De</h1>
   <p>
     <a href="https://deepsde.netlify.app/" style="color: #FFD700;">Portfolio Website</a>
   </p>
