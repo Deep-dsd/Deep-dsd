@@ -1,14 +1,16 @@
 <!-- Header Section -->
-<h1 align="center">Deep Sankar De</h1>
-<p align="center">
-  <img src="/78144390.jpeg" alt="Deep Sankar De" width="200" />
-</p>
-<p align="center">
-  <a href="https://deepsde.netlify.app/">Visit My Portfolio</a>
-</p>
-<p align="center">
-  <em>Software Engineer from India</em>
-</p>
+<div style="background-image: url('/bg.jpg'); padding: 50px; text-align: center; color: white;">
+  <h1>Deep Sankar De</h1>
+  <p>
+    <img src="https://your-profile-picture-url" alt="Deep Sankar De" width="200" />
+  </p>
+  <p>
+    <a href="https://deepsde.netlify.app/" style="color: #FFD700;">Portfolio Website</a>
+  </p>
+  <p>
+    <em>Software Engineer from India</em>
+  </p>
+</div>
 
 <!-- Skills Section -->
 <h2 align="center">Technical Skills</h2>
