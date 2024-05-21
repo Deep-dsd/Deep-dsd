@@ -14,22 +14,25 @@ I am a _"Software Developer from India"_
 
 | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5       | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3             | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![React](https://img.icons8.com/color/48/000000/react-native.png) React | ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js     | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java   |
-| ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL   | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase | ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png) Postman       |
+| ![React](https://img.icons8.com/color/48/000000/react-native.png) React | ![Next.js](https://img.icons8.com/?size=45&id=r2OarXWQc7B6&format=png&color=000000) Next.js     | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java   |
+| ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL   | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase | ![Postman](https://img.icons8.com/?size=45&id=EPbEfEa7o8CB&format=png&color=000000) Postman       |
 
 </div>
 
 <div align="center">
-* Continuous learning and staying updated with the latest trends is the way *🚀
+*Continuous learning and staying updated with the latest trends is the way* <img src="https://emojis.slackmojis.com/emojis/images/1643514715/7210/mandalorian.png?1643514715" alt="drawing" width="20"/>
+
 </div>
 
 ## 📚 Projects
 
 <div align="center">
 
-| Project                                                                  | Description                                                                                                                                   | Technologies                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Github Buddy](https://github.com/your-github-username/github-buddy)** | Working with Styled Components, React hooks, Chart.js, localStorage. Getting comfortable with API calls. Using Auth0 for user authentication. | ![React](https://img.icons8.com/color/24/000000/react-native.png) ![Styled Components](https://img.icons8.com/color/24/000000/styled-components.png) ![Chart.js](https://img.icons8.com/color/24/000000/chart-js.png) ![Auth0](https://img.icons8.com/color/24/000000/auth0.png) |
+| Project | Description |
+| --- | --- |
+| [![Project 1](https://via.placeholder.com/150)](https://deepsde.netlify.app/) | [**My Portfolio**](https://github.com/Deep-dsd/my_portfolio) <br> • Working with ReactJS. Implementing React hooks, and functional components. <br> • Implementing a modern and responsive layout. |
+| [![Project 2](https://via.placeholder.com/150)](http://13.233.138.132:3000/sign-in) | [**Tish**](https://github.com/Deep-dsd?tab=repositories) <br> • Working with Next.js, Using UI libraries like Material Tailwind. <br> • Working with Firebase, using Firebase for Authentication and Firestore for storing data. |
+| [![Project 3](https://via.placeholder.com/150)](https://search-github-user-org.netlify.app/) | [**Github Buddy**](https://github.com/Deep-dsd/github-search-users) <br> • Working with Styled Components, React hooks, Chart.js, localStorage. <br> • Getting comfortable with API calls. Using Auth0 for user authentication. |
 
 </div>
 
