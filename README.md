@@ -28,20 +28,21 @@ I am a _"Software Developer from India"_
 
 <div align="center">
 
-| Project                                                                           | Description                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Project 1](portfolio.png/150)](https://deepsde.netlify.app/)                   | [**My Portfolio**](https://github.com/Deep-dsd/my_portfolio) <br> • Working with ReactJS. Implementing React hooks, and functional components. <br> • Implementing a modern and responsive layout.                               |
-| [![Project 2](tish.png/150)](http://13.233.138.132:3000/sign-in)                  | [**Tish**](https://github.com/Deep-dsd?tab=repositories) <br> • Working with Next.js, Using UI libraries like Material Tailwind. <br> • Working with Firebase, using Firebase for Authentication and Firestore for storing data. |
-| [![Project 3](github-buddy.png/150)](https://search-github-user-org.netlify.app/) | [**Github Buddy**](https://github.com/Deep-dsd/github-search-users) <br> • Working with Styled Components, React hooks, Chart.js, localStorage. <br> • Getting comfortable with API calls. Using Auth0 for user authentication.  |
+| Project | Description |
+| --- | --- |
+| <a href="https://deepsde.netlify.app/"><img src="portfolio.png" width="200"></a> | [**My Portfolio**](https://github.com/Deep-dsd/my_portfolio) <br> • Working with ReactJS. Implementing React hooks, and functional components. <br> • Implementing modern and responsive layout. |
+| <a href="http://13.233.138.132:3000/sign-in"><img src="tish.png" width="200"></a> | [**Tish**](https://github.com/Deep-dsd?tab=repositories) <br> • Working with Next.js, Using UI libraries like Material Tailwind. <br> • Working with Firebase, using Firebase for Authentication and Firestore for storing data. |
+| <a href="https://search-github-user-org.netlify.app/"><img src="github-buddy.png" width="200"></a> | [**Github Buddy**](https://github.com/Deep-dsd/github-search-users) <br> • Working with Styled Components, React hooks, Chart.js, localStorage. <br> • Getting comfortable with API calls. Using Auth0 for user authentication. |
 
 </div>
+
 
 <div align="center">
 
 ---
 
-"May the Force Be with You"
+***May the Force Be with You*** <img src="https://emojis.slackmojis.com/emojis/images/1643514724/7296/babyyoda.png?1643514724" alt="drawing" width="20"/>
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/deepsankarde2000/)
 
 </div>
